@@ -1,4 +1,4 @@
-Welcome to my Machine Learning Projects Portfolio! This repository demonstrates my skills and competencies in data science, particularly focusing on Python and its libraries. Each project is a testament to my ability to handle, process, and analyze data to solve complex problems using a variety of algorithms. Here's what you can expect to find:
+Welcome to my Machine Learning Projects Portfolio! This repository demonstrates my skills and competencies in artificial intelligence and data science, particularly focusing on Python and its libraries. Each project is a testament to my ability to handle, process, and analyze data to solve complex problems using a variety of algorithms. Here's what you can expect to find:
 
 Highlights of This Repository
 Proficiency in Python and Libraries: Showcases my expertise in Python, including the use of popular libraries like NumPy, pandas, scikit-learn, matplotlib, Keras, and Tensorflow for various artificial intelligence and data science tasks.
